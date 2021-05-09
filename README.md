@@ -16,8 +16,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -28,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Completed desktop design](./completed-desktop)
-![Completed mobile disign](./completed-mobile)
+![image](./completed-desktop)
+![image](./completed-mobile)
 
 ### Links
 
