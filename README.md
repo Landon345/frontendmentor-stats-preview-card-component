@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![image](./completed-desktop)
-![image](./completed-mobile)
+![Completed desktop design](./completed-desktop.png)
+![Completed mobile disign](./completed-mobile.png)
 
 ### Links
 
