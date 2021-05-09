@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://landon345.github.io/frontendmentor-stats-preview-card-component/)
+- Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/i-used-flexbox-media-queries-and-backgroundimage-properties-dzc1V3ono)
+- Live Site URL: [Github Pages Link](https://landon345.github.io/frontendmentor-stats-preview-card-component/)
 
 ## My process
 
